@@ -1,0 +1,16 @@
+ 
+     
+        <footer> 
+            <div id="footerr" class="Footer"></div>
+        </footer>
+ 
+    
+<script src="../assets/js/clientlib-npc-components.min.b6efd65ae8c18d73875a5e228a1dc167.js" defer="defer"></script>
+
+<script src="../assets/js/jquery.min.js"></script>
+<footer id="foot" style="display: none; visibility: hidden; overflow: hidden; width: 0px; height: 0px;"></footer>
+<script src="../assets/js/jQuery.min.affcbf7942d5bedb0785712.js" defer="defer" async="async"></script>
+
+</body>
+</html> 
+

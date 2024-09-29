@@ -1,0 +1,186 @@
+ 
+
+<!DOCTYPE html>
+<html lang="fr" class="backgroundblendmode no-capture flexbox flexwrap">
+ 
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta property="og:url" content="">
+
+
+<meta name="description" content="">
+<meta property="og:description" content="">
+
+
+<meta name="robots" content="noindex">
+
+<title>Accès CR - Crédit Agricole</title>
+<meta property="og:title" content="Accès CR - Crédit Agricole" />
+<meta property="og:image" content="../assets/img/calogo.png">
+
+<noscript>
+ <style type="text/css">
+body {
+overflow:hidden;
+}
+ </style>
+<div class="TechnicalError noscript">
+<div class="TechnicalError-content">
+<div class="TechnicalError-paragraph">
+<p class="TechnicalError-firstPara">Malheureusement, votre configuration de navigation actuelle ne vous permet pas de naviguer dans de bonnes conditions.</br> Vous ne pourrez pas profiter de toutes les fonctionnalités de notre site ni accéder à votre espace client.</p>
+</div>
+</div>
+</div>
+</noscript>
+<meta name="format-detection" content="telephone=no">
+ 
+
+<link rel="icon" type="image/png" href="../assets/img/favicon.png">
+
+
+<link rel="stylesheet" href="../assets/css/clientlib-part.min.ea256277357fa8db5612c74f1e54f567.css" type="text/css">
+
+<link rel="stylesheet" href="../assets/css/clientlibStoreLocatorT33Part.min.1f61aaac8fd08ba4c317656d6f0e4a62.css" type="text/css">
+<link rel="stylesheet" href="../assets/css/clientlibStoreLocatorT34Part.min.f3d31862687057258256810db3499be7.css" type="text/css">
+<link rel="stylesheet" href="../assets/css/clientlibBoutonVertPart.min.d41d8cd98f00b204e9800998ecf8427e.css" type="text/css">
+
+
+<script src="../assets/js/jquery.min.aaffcbf7942d5bedb07855e48cbc1afa.js" defer="defer"></script>
+<script src="../assets/js/utils.min.423ec59365a85ebded314ad7311ef508.js" defer="defer"></script>
+<script src="../assets/js/granite.min.579a107dd681c49bc61dae63734043cb.js" defer="defer"></script>
+<script src="../assets/js/clientlib-bootstrap-jquery.min.1661914e05c676ce450674555cc1e5b0.js" defer="defer"></script>
+<script src="../assets/js/clientlibHeader.min.9b997b2ac9fca6031bd046f1edd29d81.js" defer="defer"></script>
+ 
+</head>
+
+
+
+<body class="BodyLogin" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQifSwidmVyc2lvbiI6IjEuOC4xNCIsInNjb3JlIjoxMDgxNDB9XQ==">
+ 
+
+<nocobrowse></nocobrowse>
+
+<header>
+ 
+
+</header>
+
+<main style="background-color: white !important; background-image: none !important;"> 
+
+<!-- Machine Id hluz -->
+
+<div class="Login" bis_skin_checked="1">
+<div class="Login-header js-Header" bis_skin_checked="1">
+ 
+
+<a href="#" class="Login-logo Login-logo-js" bis_skin_checked="1">
+<div class="Login-logoImg js-needFakeNotSvg" style="position: relative;" bis_skin_checked="1"><img class="" src="../assets/img/calogo.png" alt="Crédit Agricole" style="position: absolute; top: 50%; left: 50%; max-width: 100%; max-height: 100px; height: 100%; transform: translate(-50%, -50%);"><img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQwAABtbnRyUkdCIFhZWiAAAAAAAAAAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAAHRyWFlaAAABZAAAABRnWFlaAAABeAAAABRiWFlaAAABjAAAABRyVFJDAAABoAAAAChnVFJDAAABoAAAAChiVFJDAAABoAAAACh3dHB0AAAByAAAABRjcHJ0AAAB3AAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAFgAAAAcAHMAUgBHAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhZWiAAAAAAAABvogAAOPUAAAOQWFlaIAAAAAAAAGKZAAC3hQAAGNpYWVogAAAAAAAAJKAAAA+EAAC2z3BhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABYWVogAAAAAAAA9tYAAQAAAADTLW1sdWMAAAAAAAAAAQAAAAxlblVTAAAAIAAAABwARwBvAG8AZwBsAGUAIABJAG4AYwAuACAAMgAwADEANv/bAEMAAwICAgICAwICAgMDAwMEBgQEBAQECAYGBQYJCAoKCQgJCQoMDwwKCw4LCQkNEQ0ODxAQERAKDBITEhATDxAQEP/bAEMBAwMDBAMECAQECBALCQsQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEP/AABEIADgBLAMBIgACEQEDEQH/xAAVAAEBAAAAAAAAAAAAAAAAAAAACf/EABQQAQAAAAAAAAAAAAAAAAAAAAD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AlUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//2Q==" style="opacity: 0; max-width: 100%; max-height: 100%; visibility: hidden;"></div>
+</a>
+
+<a href="#" class="Login-close" id="Login-close" tabindex="0" role="button" aria-label="Quitter l&#39;accès à mon espace" bis_skin_checked="1" style="pointer-events: none !important;"></a>
+</div>
+
+<div class="container-fluid Template" bis_skin_checked="1" style="margin-top: 60px;">
+<div class="row js-Template-head" bis_skin_checked="1">
+<div class="col-xs-12 col-md-6" bis_skin_checked="1">
+<div class="Template-reduceMargin15px" bis_skin_checked="1">
+<div class="js-StickyPush" bis_skin_checked="1"><div class="js-StickyWrap" bis_skin_checked="1"><div class="js-FullHeight ForgotPswd-imgWrapper hidden-xs" style="height: 796px;" bis_skin_checked="1">
+<div class="placeholder-left parsys" bis_skin_checked="1"><div class="new-zdg parbase section" bis_skin_checked="1">
+
+<script type="text/javascript">
+(function () {
+
+
+window.ContextHub.eventing.on(ContextHub.SegmentEngine.PageInteraction.Teaser.prototype.info.loadEvent, function (event) {
+$(window).trigger('initCustomRedirect');
+});
+
+$("div[class='PushCommunication-text']").find("p").each(function () {
+var inner = $(this)[0].innerHTML.trim();
+var brIfExist = inner.substr(inner.length - 4);
+var brAndNbspIfExist = inner.substr(inner.length - 11);
+if (brIfExist.indexOf("<br>") >= 0 || (brAndNbspIfExist.indexOf("<br>") >= 0 && brAndNbspIfExist.indexOf("&nbsp;") >= 0)) {
+setTimeout(removeLastBr, 1000, $(this));
+}
+});
+function removeLastBr(p) {
+$(p).find("br:last-child").remove();
+}
+});
+</script>
+
+
+<div class="componentZdg" bis_skin_checked="1">
+<div class="PushCarousel3" bis_skin_checked="1">
+<div bis_skin_checked="1"><button class="PushCarousel3-masking" onclick="toggleStateCarousel(&#39;hom&#39;)">Mettre en pause ou
+redémarrer le défilement du carousel</button></div>
+<div class="PushCarousel3-carousel" bis_skin_checked="1">
+<div data-trackingclass="carrousel" class="PushCarousel3-carouselInner owl-loaded" data-owl-access-keyup="1" data-owl-carousel-focusable="1" bis_skin_checked="1">
+  
+
+<div class="owl-stage-outer" bis_skin_checked="1"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 641px;" bis_skin_checked="1"><div class="owl-item active" aria-hidden="false" style="width: 640px; margin-right: 1px;" bis_skin_checked="1"><div class="PushCarousel3-item" data-trackinginfo="progcr_mpmOffreEstivale_1" bis_skin_checked="1">
+
+<div class="PushCommunication-backgroundWrapper" bis_skin_checked="1">
+<div class="PushCommunication-background PushCommunication-background--filterTransparent" style="background-image: url('../assets/img/acces_cr_part_carre.jpg') !important; width:105% !important;" bis_skin_checked="1">
+<style type="text/css">
+.imgg { 
+background-image: url('../assets/img/acces_cr_part_carre.jpg') !important; width:105% !important; 
+}
+</style>
+</div>
+</div>
+<div class="PushCommunication-zoning PushCommunication-zoning--bottomCenter PushCommunication-zoning--white" bis_skin_checked="1">
+
+<div class="PushCommunication-sticky" bis_skin_checked="1">IMPORTANT</div>
+
+
+<div class="PushCommunication-title" bis_skin_checked="1">
+<div class="texte section" bis_skin_checked="1"><p><span class="h3">VOTRE PORTAIL CHANGE VOS HABITUDES DE NAVIGATION AUSSI.</span></p>
+</div>
+</div>
+
+<div class="PushCommunication-text" bis_skin_checked="1">
+<div class="texte section" bis_skin_checked="1">
+<p>Nous vous recommandons de prendre connaissance des nouveautés au travers de cette présentation s’adressant tout particulièrement à nos utilisateurs en situation de handicap visuel.</p>
+
+</div>
+</div>
+
+
+
+<!-- Si la popin de co est activé -->
+
+<!-- Si la popin de co n'est pas activé -->
+
+
+<a href="#" class="PushCommunication-btn PushCommunication-btn--primary" data-custom-redirect="#" data-owl-temp-tabindex="0" tabindex="0" bis_skin_checked="1"><span>En savoir plus </span></a>
+
+
+
+</div>
+</div></div></div></div><div class="owl-nav disabled" bis_skin_checked="1">
+
+<button type="button" role="presentation" class="owl-prev" tabindex="0"></button>
+<button type="button" role="presentation" class="owl-next" tabindex="0"></button>
+
+</div><div class="owl-dots disabled" bis_skin_checked="1"></div></div>
+</div>
+</div>
+</div>
+<script>
+if (typeof sliderRelationalMessage === 'function') {
+sliderRelationalMessage();
+};
+</script>
+
+
+</div>
+
+</div>
+
+</div></div></div>
+</div>
+</div>
+

